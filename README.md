@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/mangopy/Deep-Research-Survey/blob/main/Deep-Research-Survey.pdf)
+[![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/blob/master/Actionable-MI-Survey.pdf)
 [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]()
-[![Preprints](https://img.shields.io/badge/Preprints.org-202511.2077-blue?style=for-the-badge)](https://www.preprints.org/manuscript/202511.2077/v1)
+<!-- [![Preprints](https://img.shields.io/badge/Preprints.org-202511.2077-blue?style=for-the-badge)](https://www.preprints.org/manuscript/202511.2077/v1) -->
 
 </div>
 
