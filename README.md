@@ -4,6 +4,9 @@
 
 [![PDF](https://img.shields.io/badge/PDF-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/blob/master/Actionable-MI-Survey.pdf) [![Status](https://img.shields.io/badge/STATUS-Active-brightgreen?style=for-the-badge)]() [![arXiv](https://img.shields.io/badge/arXiv-2601.14004v1-b31b1b?style=for-the-badge)](https://arxiv.org/abs/2601.14004)
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/rattlesnakey/Awesome-Actionable-MI-Survey?style=social)](https://github.com/rattlesnakey/Awesome-Actionable-MI-Survey/stargazers)
+
 </div>
 
 > We will continue to update this repository.
