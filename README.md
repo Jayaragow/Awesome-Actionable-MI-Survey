@@ -98,7 +98,7 @@ data-dependent
 | **TruthX: Alleviating Hallucinations by Editing Large Language Models in Truthful Space** | Residual Stream | Probing | Vector Arithmetic | ACL | 2024 | [Link](https://aclanthology.org/2024.acl-long.483/) |
 | **LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations** | Residual Stream | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=KRnsX5Em3W) |
 | **Improving Instruction-Following in Language Models through Activation Steering** | Residual Stream | - | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=wozhdnRCtw) |
-| **On the Role of MHA Heads in Large Language Model Safety** | MHA | Causal Attribution | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=h0Ak8A5yqw) |
+| **On the Role of Attention Heads in Large Language Model Safety** | MHA | Causal Attribution | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=h0Ak8A5yqw) |
 | **Refine Large Language Model Fine-tuning via Instruction Vector** | MHA | Causal Attribution | Targeted Optimization | ArXiv | 2024 | [Link](https://arxiv.org/abs/2406.12227) |
 | **Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons** | Neuron | Causal Attribution | Amplitude Manipulation | ArXiv | 2025 | [Link](https://openreview.net/forum?id=1NkrxqY4jK) |
 | **Whispering Experts: Neural Interventions for Toxicity Mitigation in Language Models** | Neuron | Magnitude Analysis | Amplitude Manipulation | ICML | 2024 | [Link](https://openreview.net/forum?id=2P6GVfSrfZ) |
@@ -113,7 +113,7 @@ data-dependent
 | **Saif: A sparse autoencoder framework for interpreting and steering instruction following of language models** | SAE Feature | Magnitude Analysis | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2502.11356) |
 | **Training Superior Sparse Autoencoders for Instruct Models** | SAE Feature | Magnitude Analysis | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2506.07691) |
 | **Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning** | Token Embedding | Gradient Detection | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2507.18043) |
-| **Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis** | MHA & FFN | Circuit Discovery | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.781/) |
+| **Pierce the Mists, Greet the Sky: Decipher Knowledge Overshadowing via Knowledge Circuit Analysis** |  & FFN | Circuit Discovery | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.781/) |
 
 #### Fairness and Bias
 | Paper | Object | Localizing Method | Steering Method | Venue | Year | Link |
@@ -122,12 +122,12 @@ data-dependent
 | **MPF: Aligning and Debiasing Language Models Post Deployment via Multi Perspective Fusion** | Residual Stream | - | Amplitude Manipulation | ICML | 2025 | [Link](https://arxiv.org/abs/2507.02595) |
 | **Mitigate Position Bias in LLMs via Scaling a Single Hidden States Channel** | Residual Stream | Magnitude Analysis | Amplitude Manipulation | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.316/) |
 | **Analysing Moral Bias in Finetuned LLMs through Mechanistic Interpretability** | Residual Stream | Causal Attribution | Amplitude Manipulation | ArXiv | 2025 | [Link](https://arxiv.org/abs/2510.12229) |
-| **Investigating Gender Bias in Language Models Using Causal Mediation Analysis** | MHA | Causal Attribution | Amplitude Manipulation | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf) |
-| **Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective** | MHA | Magnitude Analysis | Amplitude Manipulation | TMLR | 2025 | [Link](https://openreview.net/forum?id=EpQ2CBJTjD) |
-| **Linear Representations of Political Perspective Emerge in Large Language Models** | MHA | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=rwqShzb9li) |
-| **Tracing Positional Bias in Financial Decision-Making: Mechanistic Insights from Qwen2.5** | MHA | Magnitude Analysis | - | ICAIF | 2025 | [Link](https://arxiv.org/abs/2508.18427) |
-| **Eliminating Position Bias of Language Models: A Mechanistic Approach** | MHA | Magnitude Analysis | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=fvkElsJOsN) |
-| **Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model** | MHA | Causal Attribution | Targeted Optimization | ACLWS | 2023 | [Link](https://aclanthology.org/2023.blackboxnlp-1.29/) |
+| **Investigating Gender Bias in Language Models Using Causal Mediation Analysis** |  | Causal Attribution | Amplitude Manipulation | NeurIPS | 2020 | [Link](https://proceedings.neurips.cc/paper/2020/file/92650b2e92217715fe312e6fa7b90d82-Paper.pdf) |
+| **Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective** |  | Magnitude Analysis | Amplitude Manipulation | TMLR | 2025 | [Link](https://openreview.net/forum?id=EpQ2CBJTjD) |
+| **Linear Representations of Political Perspective Emerge in Large Language Models** |  | Probing | Vector Arithmetic | ICLR | 2025 | [Link](https://openreview.net/forum?id=rwqShzb9li) |
+| **Tracing Positional Bias in Financial Decision-Making: Mechanistic Insights from Qwen2.5** |  | Magnitude Analysis | - | ICAIF | 2025 | [Link](https://arxiv.org/abs/2508.18427) |
+| **Eliminating Position Bias of Language Models: A Mechanistic Approach** |  | Magnitude Analysis | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=fvkElsJOsN) |
+| **Identifying and Adapting Transformer-Components Responsible for Gender Bias in an English Language Model** |  | Causal Attribution | Targeted Optimization | ACLWS | 2023 | [Link](https://aclanthology.org/2023.blackboxnlp-1.29/) |
 | **Locating and Mitigating Gender Bias in Large Language Models** | FFN | Causal Attribution | Targeted Optimization | ICIC | 2024 | [Link](https://arxiv.org/abs/2403.14409) |
 | **Elucidating Mechanisms of Demographic Bias in LLMs for Healthcare** | FFN | Causal Attribution | Amplitude Manipulation | EMNLP | 2025 | [Link](https://aclanthology.org/2025.findings-emnlp.789) |
 | **Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions** | FFN | Vocab Projection | Targeted Optimization | ACL | 2025 | [Link](https://aclanthology.org/2025.findings-acl.124/) |
@@ -175,9 +175,9 @@ data-dependent
 | **Fractional Reasoning via Latent Steering Vectors Improves Inference Time Compute** | Residual Stream | Causal Attribution | Vector Arithmetic | ArXiv | 2025 | [Link](https://arxiv.org/abs/2506.15882) |
 | **Steering LLM Reasoning Through Bias-Only Adaptation** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://arxiv.org/abs/2505.18706) |
 | **Feature Extraction and Steering for Enhanced Chain-of-Thought Reasoning in Language Models** | Residual Stream | Causal Attribution | Vector Arithmetic | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.552/) |
-| **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** | MHA | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.emnlp-main.192) |
-| **Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis** | MHA | Causal Attribution | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.193/) |
-| **Back MHA: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models** | MHA | Causal Attribution | - | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.567/) |
+| **How do Large Language Models Learn In-Context? Query and Key Matrices of In-Context Heads are Two Towers for Metric Learning** |  | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://doi.org/10.18653/v1/2024.emnlp-main.192) |
+| **Interpreting Arithmetic Mechanism in Large Language Models through Comparative Neuron Analysis** |  | Causal Attribution | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.193/) |
+| **Back Attention: Understanding and Enhancing Multi-Hop Reasoning in Large Language Models** | MHA | Causal Attribution | - | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.567/) |
 | **Chain-of-Thought in Large Language Models: Decoding, Projection, and Activation** | MHA & FFN | Magnitude Analysis | - | ArXiv | 2024 | [Link](https://arxiv.org/abs/2412.03944) |
 | **Interpreting and Improving Large Language Models in Arithmetic Calculation** | MHA & FFN | Causal Attribution | Targeted Optimization | ICML | 2024 | [Link](https://openreview.net/forum?id=CfOtiepP8s) |
 | **A Mechanistic Interpretation of Arithmetic Reasoning in Language Models using Causal Mediation Analysis** | MHA & FFN | Causal Attribution | - | EMNLP | 2023 | [Link](https://doi.org/10.18653/v1/2023.emnlp-main.435) |
@@ -226,11 +226,11 @@ data-dependent
 | **Mass-Editing Memory in a Transformer** | FFN | Causal Attribution | Targeted Optimization | ICLR | 2023 | [Link](https://openreview.net/forum?id=MkbcAHIYgyS) |
 | **Joint Localization and Activation Editing for Low-Resource Fine-Tuning** | MHA | Magnitude Analysis | Targeted Optimization | ICML | 2025 | [Link](https://openreview.net/forum?id=Lllg9YjAFX) |
 | **Taming Knowledge Conflicts in Language Models** | MHA | Magnitude Analysis | Amplitude Manipulation | ICML | 2025 | [Link](https://openreview.net/forum?id=0cEZyhHEks) |
-| **Massive Values in Self-MHA Modules are the Key to Contextual Knowledge Understanding** | MHA | Magnitude Analysis | Amplitude Manipulation | ICML | 2025 | [Link](https://openreview.net/forum?id=1SMcxxQiSL) |
+| **Massive Values in Self-Attention Modules are the Key to Contextual Knowledge Understanding** | MHA | Magnitude Analysis | Amplitude Manipulation | ICML | 2025 | [Link](https://openreview.net/forum?id=1SMcxxQiSL) |
 | **Cutting Off the Head Ends the Conflict: A Mechanism for Interpreting and Mitigating Knowledge Conflicts in Language Models** | MHA | Causal Attribution | Amplitude Manipulation | ACL | 2024 | [Link](https://doi.org/10.18653/v1/2024.findings-acl.70) |
 | **Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models** | MHA | Causal Attribution | Amplitude Manipulation | ArXiv | 2024 | [Link](https://arxiv.org/abs/2403.19521) |
 | **Llama See, Llama Do: A Mechanistic Perspective on Contextual Entrainment and Distraction in LLMs** | MHA | Causal Attribution | Amplitude Manipulation | ACL | 2025 | [Link](https://aclanthology.org/2025.acl-long.791/) |
-| **Probing and Boosting Large Language Models Capabilities via MHA Heads** | MHA | Probing | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.1450/) |
+| **Probing and Boosting Large Language Models Capabilities via Attention Heads** | MHA | Probing | Targeted Optimization | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.1450/) |
 | **TIES-Merging: Resolving Interference When Merging Models** | MHA & FFN | Magnitude Analysis | Vector Arithmetic | NeurIPS | 2023 | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1644c9af28ab7916874f6fd6228a9bcf-Abstract-Conference.html) |
 | **Neuron-Level Knowledge Attribution in Large Language Models** | MHA & FFN | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.191.pdf) |
 | **Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model** | MHA & FFN | Magnitude Analysis | Targeted Optimization | ACL | 2024 | [Link](https://doi.org/10.18653/v1/2024.findings-acl.445) |
@@ -273,7 +273,7 @@ data-dependent
 | **Language-Specific Neurons Do Not Facilitate Cross-Lingual Transfer** | Neuron | Magnitude Analysis | Targeted Optimization | ACL | 2025 | [Link](https://aclanthology.org/2025.insights-1.6/) |
 | **Sparse Subnetwork Enhancement for Underrepresented Languages in Large Language Models** | Neuron | Magnitude Analysis | Targeted Optimization | AACL | 2025 | [Link](https://arxiv.org/abs/2510.13580) |
 | **How do Large Language Models Handle Multilingualism?** | Neuron | Causal Attribution | Targeted Optimization | NeurIPS | 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/file/1bd359b32ab8b2a6bbafa1ed2856cf40-Paper-Conference.pdf) |
-| **Optimizing Multimodal Language Models through MHA-based Interpretability** | MHA | Magnitude Analysis | Targeted Optimization | ICAI | 2025 | [Link](https://arxiv.org/abs/2511.23375) |
+| **Optimizing Multimodal Language Models through Attention-based Interpretability** | MHA | Magnitude Analysis | Targeted Optimization | ICAI | 2025 | [Link](https://arxiv.org/abs/2511.23375) |
 | **In-context Learning and Induction Heads** | MHA | Magnitude Analysis | - | ArXiv | 2022 | [Link](https://arxiv.org/abs/2209.11895) |
 | **How Transformers Implement Induction Heads: Approximation and Optimization Analysis** | MHA | Magnitude Analysis | - | ArXiv | 2024 | [Link](https://openreview.net/forum?id=1lFZusYFHq) |
 | **What needs to go right for an induction head? a mechanistic study of in-context learning circuits and their formation** | MHA | Magnitude Analysis | - | ICML | 2024 | [Link](https://dl.acm.org/doi/abs/10.5555/3692070.3693925) |
@@ -297,7 +297,7 @@ data-dependent
 | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
 | **TokenSkip: Controllable Chain-of-Thought Compression in LLMs** | Token Embedding | Magitude Analysis | Amplitude Manipulation | EMNLP | 2025 | [Link](https://aclanthology.org/2025.emnlp-main.165/) |
 | **Generic Token Compression in Multimodal Large Language Models from an Explainability Perspective** | Token Embedding | Gradient Detection | Amplitude Manipulation | ArXiv | 2025 | [Link](https://arxiv.org/abs/2506.01097) |
-| **MHA Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters** | Token Embedding | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.1178/) |
+| **Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters** | Token Embedding | Magnitude Analysis | Amplitude Manipulation | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.1178/) |
 | **Fit and prune: Fast and training-free visual token pruning for multi-modal large language models** | Token Embedding | Magnitude Analysis | Amplitude Manipulation | AAAI | 2025 | [Link](https://ojs.aaai.org/index.php/AAAI/article/view/34366) |
 | **Zipcache: Accurate and efficient kv cache quantization with salient token identification** | Token Embedding | Magnitude Analysis | Amplitude Manipulation | NeurIPS | 2024 | [Link](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7e57131fdeb815764434b65162c88895-Abstract-Conference.html) |
 | **Pyramidkv: Dynamic kv cache compression based on pyramidal information funneling** | Token Embedding | Magnitude Analysis | Amplitude Manipulation | COLM | 2025 | [Link](https://openreview.net/forum?id=ayi7qezU87) |
@@ -313,15 +313,15 @@ data-dependent
 | **Mix-QViT: Mixed-precision vision transformer quantization driven by layer importance and quantization sensitivity** | Residual Stream | Gradient Detection | - | ArXiv | 2025 | [Link](https://arxiv.org/abs/2501.06357) |
 | **Lsaq: Layer-specific adaptive quantization for large language model deployment** | Residual Stream | Vocab Projection | - | ArXiv | 2024 | [Link](https://arxiv.org/abs/2412.18135) |
 | **Towards Building Efficient Sentence BERT Models using Layer Pruning** | Residual Stream | Causal Attribution | Amplitude Manipulation | ACL | 2024 | [Link](https://aclanthology.org/2024.paclic-1.68/) |
-| **KVSink: Understanding and Enhancing the Preservation of MHA Sinks in KV Cache Quantization for LLMs** | MHA & FFN | Circuit Discovery | - | COLM | 2025 | [Link](https://openreview.net/forum?id=gIqb6zWZoO) |
+| **KVSink: Understanding and Enhancing the Preservation of Attention Sinks in KV Cache Quantization for LLMs** | MHA & FFN | Circuit Discovery | - | COLM | 2025 | [Link](https://openreview.net/forum?id=gIqb6zWZoO) |
 | **Massive activations in large language models** | MHA & FFN | Magnitude Analysis | - | NeurIPS | 2024 | [Link](https://openreview.net/forum?id=F7aAhfitX6) |
 | **Systematic outliers in large language models** | MHA & FFN | Circuit Discovery | - | ICLR | 2025 | [Link](https://openreview.net/forum?id=rLX7Vyyzus) |
-| **Quantizable Transformers: Removing Outliers by Helping MHA Heads Do Nothing** | MHA & FFN | Circuit Discovery | - | NeurIPS | 2023 | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edbcb7583fd8921dad78adecfe06a99b-Abstract-Conference.html) |
-| **RazorMHA: Efficient kv cache compression through retrieval heads** | MHA | Circuit Discovery | Amplitude Manipulation | ICLR | 2025 | [Link](https://iclr.cc/virtual/2025/poster/28028) |
-| **DuoMHA: Efficient long-context llm inference with retrieval and streaming heads** | MHA | Circuit Discovery | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=cFu7ze7xUm) |
-| **Unveiling visual perception in language models: An MHA head analysis approach** | MHA | Magnitude Analysis | - | CVPR | 2025 | [Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Bi_Unveiling_Visual_Perception_in_Language_Models_An_MHA_Head_Analysis_CVPR_2025_paper.pdf) |
+| **Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing** | MHA & FFN | Circuit Discovery | - | NeurIPS | 2023 | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/hash/edbcb7583fd8921dad78adecfe06a99b-Abstract-Conference.html) |
+| **RazorAttention: Efficient kv cache compression through retrieval heads** | MHA | Circuit Discovery | Amplitude Manipulation | ICLR | 2025 | [Link](https://iclr.cc/virtual/2025/poster/28028) |
+| **DuoAttention: Efficient long-context llm inference with retrieval and streaming heads** | MHA | Circuit Discovery | Amplitude Manipulation | ICLR | 2025 | [Link](https://openreview.net/forum?id=cFu7ze7xUm) |
+| **Unveiling visual perception in language models: An Attention head analysis approach** | MHA | Magnitude Analysis | - | CVPR | 2025 | [Link](https://openaccess.thecvf.com/content/CVPR2025/papers/Bi_Unveiling_Visual_Perception_in_Language_Models_An_Attention_Head_Analysis_CVPR_2025_paper.pdf) |
 | **Rotatekv: Accurate and robust 2-bit kv cache quantization for llms via outlier-aware adaptive rotations** | MHA | Magnitude Analysis | Amplitude Manipulation | IJCAI | 2025 | [Link](https://www.ijcai.org/proceedings/2025/690) |
-| **Efficient Streaming Language Models with MHA Sinks** | MHA | Magnitude Analysis | Amplitude Manipulation | ICLR | 2024 | [Link](https://openreview.net/forum?id=NG7sS51zVF) |
+| **Efficient Streaming Language Models with Attention Sinks** | MHA | Magnitude Analysis | Amplitude Manipulation | ICLR | 2024 | [Link](https://openreview.net/forum?id=NG7sS51zVF) |
 | **Unraveling babel: Exploring multilingual activation patterns within large language models** | Neuron | Magnitude Analysis | Amplitude Manipulation | ArXiv | 2024 | [Link](https://openreview.net/forum?id=nUtrPN0GHX) |
 | **Neuron Specialization: Leveraging Intrinsic Task Modularity for Multilingual Machine Translation** | Neuron | Magnitude Analysis | - | EMNLP | 2024 | [Link](https://aclanthology.org/2024.emnlp-main.374/) |
 | **The super weight in large language models** | FFN | Magnitude Analysis | Amplitude Manipulation | Arxiv | 2024 | [Link](https://arxiv.org/abs/2411.07191) |
